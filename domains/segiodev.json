@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "owtz"
+        "username": "OwTz",
+        "email": "contato.sergiowork@gmail.com"
     },
     "records": {
-        "RECORDTYPE": "RECORDCONTENT"
+        "A": ["216.198.79.1"]
     }
 }
